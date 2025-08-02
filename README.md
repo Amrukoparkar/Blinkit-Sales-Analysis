@@ -81,13 +81,8 @@ The dashboard addresses the following business needs:
 
 
 ---
-
-## 🎥 Demo Video
-
-Watch a complete walkthrough of the dashboard here:  
-👉 [Click to Watch the Video]([Add_YouTube_or_Drive_Link_Here](https://onedrive.live.com/personal/2de72b253443d313/_layouts/15/Doc.aspx?sourcedoc=%7B053E7AB6-68CE-4B19-878B-C334D4E1ED39%7D&file=BlinkIT%20Grocery%20Data%20Excel.xlsx&action=default&mobileredirect=true))
-
----
+You can download the Excel file directly from OneDrive here:  
+📊 [Blinkit Excel Dashboard - Click to View]([https://1drv.ms/x/s!Ak0abc12345example](https://onedrive.live.com/personal/2de72b253443d313/_layouts/15/Doc.aspx?sourcedoc=%7B053E7AB6-68CE-4B19-878B-C334D4E1ED39%7D&file=BlinkIT%20Grocery%20Data%20Excel.xlsx&action=default&mobileredirect=true))
 
 ## 📂 Project Status
 
