@@ -2,6 +2,8 @@
 
 This project presents a detailed **Excel dashboard** built to analyze the sales performance of Blinkit — an online grocery delivery platform. It includes various business requirements, KPIs, and visual insights designed to assist in data-driven decision-making.
 
+> **TL;DR**: This Excel dashboard for Blinkit offers actionable insights on sales performance using clean visualizations like pivot tables, pie charts, and KPIs. Download and explore it now!
+
 ---
 
 ## 🧩 Project Overview
@@ -79,10 +81,12 @@ The dashboard addresses the following business needs:
 
 <img width="1364" height="733" alt="dashboard" src="https://github.com/user-attachments/assets/80cf14bf-beec-477a-94d0-c099102e0b9a" />
 
+---
+
+You can download the Excel file directly from OneDrive here:  
+📊 [Blinkit Excel Dashboard - Click to View](https://onedrive.live.com/personal/2de72b253443d313/_layouts/15/Doc.aspx?sourcedoc=%7B053E7AB6-68CE-4B19-878B-C334D4E1ED39%7D&file=BlinkIT%20Grocery%20Data%20Excel.xlsx&action=default&mobileredirect=true)
 
 ---
-You can download the Excel file directly from OneDrive here:  
-📊 [Blinkit Excel Dashboard - Click to View]([https://1drv.ms/x/s!Ak0abc12345example](https://onedrive.live.com/personal/2de72b253443d313/_layouts/15/Doc.aspx?sourcedoc=%7B053E7AB6-68CE-4B19-878B-C334D4E1ED39%7D&file=BlinkIT%20Grocery%20Data%20Excel.xlsx&action=default&mobileredirect=true))
 
 ## 📂 Project Status
 
@@ -96,9 +100,4 @@ You can download the Excel file directly from OneDrive here:
 
 **Amruta Koparkar**  
 - 3rd Year EXTC Student | Data Analytics Enthusiast | Excel Developer  
-- Connect with me on [LinkedIn]([https://www.linkedin.com/in/amruta-koparkar](https://www.linkedin.com/in/amruta-koparkar-415862294/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7nJNAoZySr6iYT3cLdj%2FDQ%3D%3D))
-
----
-
-
-
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/amruta-koparkar-415862294/)
